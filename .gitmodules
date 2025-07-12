@@ -1,3 +1,6 @@
 [submodule "react-frontend-typescript-template"]
 	path = react-frontend-typescript-template
 	url = git@github.com:xiaokatech/react-frontend-typescript-template.git
+[submodule "node-backend-typescript-template"]
+	path = node-backend-typescript-template
+	url = git@github.com:xiaokatech/node-backend-typescript-template.git
