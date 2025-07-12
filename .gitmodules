@@ -4,3 +4,6 @@
 [submodule "node-backend-typescript-template"]
 	path = node-backend-typescript-template
 	url = git@github.com:xiaokatech/node-backend-typescript-template.git
+[submodule "terraform-infra-template"]
+	path = terraform-infra-template
+	url = git@github.com:xiaokatech/terraform-infra-template.git
