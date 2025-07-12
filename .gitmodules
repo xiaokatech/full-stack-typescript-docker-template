@@ -7,3 +7,6 @@
 [submodule "terraform-infra-template"]
 	path = terraform-infra-template
 	url = git@github.com:xiaokatech/terraform-infra-template.git
+[submodule "chrome-extension-v1-react-template"]
+	path = chrome-extension-v1-react-template
+	url = git@github.com:xiaokatech/chrome-extension-v1-react-template.git
