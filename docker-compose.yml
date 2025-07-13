@@ -1,14 +1,14 @@
 version: "3.9"
 
 services:
-  backend_node:
-    container_name: backend_node
+  node-backend-typescript-template:
+    container_name: node-backend-typescript-template
     build:
-      context: "./backend"
+      context: "./node-backend-typescript-template"
       dockerfile: Dockerfile
     restart: always
     volumes:
-      - ./backend/:/usr/src/app/
+      - ./node-backend-typescript-template/:/usr/src/app/
     ports:
       - "8080:8080"
       - "9229:9229"
